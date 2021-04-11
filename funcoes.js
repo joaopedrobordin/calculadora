@@ -47,4 +47,4 @@ if(operaçao == 1){
     }else if (OPRS == 4){
         let RST = PN - SN ;
     document.write("<h2>" + PN + "/" + SN + " = " + RST + "</h2>");
-    }   
+    }   */ 
